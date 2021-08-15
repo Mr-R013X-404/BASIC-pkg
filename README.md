@@ -14,5 +14,5 @@ cd BASIC-pkg
 
 bash basic-pkg.sh
 
-## Sabbir ( WHI73 D3VI1)
+## S@bbir ( WHI73 D3VI1)
 

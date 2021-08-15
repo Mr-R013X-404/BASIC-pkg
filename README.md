@@ -1,2 +1,9 @@
-# BASIC-pkg
-Basic Package For New Users,,,or Old In One Click Get all Basic Pakages,,and All python pakages are installed,,,
+## Sabbir ( WHI73 D3VI1) 
+### BASIC-pkg
+Termux Basic Package,,,
+
+apt update
+git clone https://github.com/WHI73-D3VI1/BASIC-pkg
+cd BASIC-pkg
+bash basic-pkg.sh
+

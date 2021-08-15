@@ -2,7 +2,11 @@
 ### BASIC-pkg
 Termux Basic Package,,,
 
-apt update
+pkg update
+
+pkg upgrade
+
+pkg install git
 
 git clone https://github.com/WHI73-D3VI1/BASIC-pkg
 

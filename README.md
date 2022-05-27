@@ -2,13 +2,13 @@
 ### BASIC-pkg
 Termux Basic Package,,,
 
-pkg update
+apt update
 
-pkg upgrade
+apt upgrade
 
-pkg install git
+apt install git
 
-pkg install figlet
+apt install figlet
 
 git clone https://github.com/KNI9H7-SH4D0W/BASIC-pkg
 

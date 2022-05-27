@@ -8,11 +8,13 @@ pkg upgrade
 
 pkg install git
 
-git clone https://github.com/WHI73-D3VI1/BASIC-pkg
+pkg install figlet
+
+git clone https://github.com/KNI9H7-SH4D0W/BASIC-pkg
 
 cd BASIC-pkg
 
 bash basic-pkg.sh
 
-## S@bbir ( WHI73 D3VI1)
+## S@bbir ( KNI9H7 SH4D0W )
 

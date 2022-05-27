@@ -1,7 +1,7 @@
 echo 
 echo
-figlet -f slant 'W H I 7 3' |lolcat
-figlet -f slant 'D 3 V I 1' |lolcat
+figlet -f slant 'K N I 9 H 7' |lolcat
+figlet -f slant 'S H 4 D 0 W' |lolcat
 echo
 echo
 
@@ -127,16 +127,16 @@ pkg install java -y
 pkg install fish -y
 
 
-figlet -f slant 'W H I 7 3' |lolcat
-figlet -f slant 'D 3 V I 1' |lolcat
+figlet -f slant 'K N I 9 H 7' |lolcat
+figlet -f slant 'S H 4 D 0 W' |lolcat
 echo
 
 echo "#------------------------------------------------#" |lolcat
-echo "#                   WH!73 D3V!1                  #" |lolcat
+echo "#                   KNI9H7 SH4D0W                  #" |lolcat
 echo "#------------------------------------------------#" |lolcat
-echo "#  Github  : github.com/WHI73-D3VI1/             #" |lolcat
-echo "# Facebook: https://www.facebook.com/WHI73.D3VI1 #" |lolcat
-echo "#  Telegram : https://t.me/WhiteDevil2026        #" |lolcat
+echo "#  Github  : github.com/KNI9H7-SH4D0W/             #" |lolcat
+echo "# Facebook: https://www.facebook.com/KNI9H7.SH4D0W #" |lolcat
+echo "#  Telegram : https://t.me/KNI9H7_SH4D0W        #" |lolcat
 echo "#------------------------------------------------#" |lolcat
 echo "#              【﻿ IƬ'Ƨ MΣ §@ßßÌR 】             #" |lolcat
 echo "#------------------------------------------------#" |lolcat
@@ -146,4 +146,4 @@ echo
 
 echo "Now Your Termux Is Ready To Run," |lolcat
 
-#WHI73 D3VI1
+#KNI9H7 SH4D0W

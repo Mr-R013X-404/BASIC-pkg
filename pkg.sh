@@ -1,7 +1,7 @@
 echo 
 echo
-figlet -f slant 'K N I 9 H 7' |lolcat
-figlet -f slant 'S H 4 D 0 W' |lolcat
+figlet -f slant 'Mr. R013X' |lolcat
+figlet -f slant '404' |lolcat
 echo
 echo
 
@@ -127,8 +127,8 @@ pkg install java -y
 pkg install fish -y
 
 
-figlet -f slant 'K N I 9 H 7' |lolcat
-figlet -f slant 'S H 4 D 0 W' |lolcat
+figlet -f slant 'Mr. R013X' |lolcat
+figlet -f slant '404' |lolcat
 echo
 
 echo "#------------------------------------------------#" |lolcat
@@ -146,4 +146,4 @@ echo
 
 echo "Now Your Termux Is Ready To Run," |lolcat
 
-#KNI9H7 SH4D0W
+#Mr. R013X 404

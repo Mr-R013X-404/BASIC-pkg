@@ -10,11 +10,11 @@ pkg install git
 
 pkg install figlet
 
-git clone https://github.com/KNI9H7-SH4D0W/BASIC-pkg
+git clone https://github.com/Mr-R013X-404/Tpkg
 
-cd BASIC-pkg
+cd Tpkg
 
-bash basic-pkg.sh
+bash pkg.sh
 
-### |×| Mr. R013X 404 |×|
+##### |~| Mr. R013X 404 |~|
 

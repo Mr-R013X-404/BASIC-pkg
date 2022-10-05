@@ -131,15 +131,13 @@ figlet -f slant 'Mr. R013X' |lolcat
 figlet -f slant '404' |lolcat
 echo
 
-echo "#------------------------------------------------#" |lolcat
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" |lolcat
 echo "#                   KNI9H7 SH4D0W                  #" |lolcat
-echo "#------------------------------------------------#" |lolcat
-echo "#  Github  : github.com/KNI9H7-SH4D0W/             #" |lolcat
-echo "# Facebook: https://www.facebook.com/KNI9H7.SH4D0W #" |lolcat
-echo "#  Telegram : https://t.me/KNI9H7_SH4D0W        #" |lolcat
-echo "#------------------------------------------------#" |lolcat
-echo "#              【﻿ IƬ'Ƨ MΣ §@ßßÌR 】             #" |lolcat
-echo "#------------------------------------------------#" |lolcat
+echo "[~] Facebook : https://www.facebook.com/Mr.R013X.404 |lolcat
+echo "[~] Telegram : https://t.me/MR_R013X_404" |lolcat
+echo "[~] Page     : https://www.facebook.com/Bads.community.bd" |lolcat
+echo "[~] Group    : https://www.facebook.com/groups/team.bads" |lolcat
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" |lolcat
 
 echo
 echo

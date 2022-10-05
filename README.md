@@ -16,5 +16,5 @@ cd Tpkg
 
 bash pkg.sh
 
-##### |~| Mr. R013X 404 |~|
+#### |+| Mr. R013X 404 |+|
 

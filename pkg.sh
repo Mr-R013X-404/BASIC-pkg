@@ -132,9 +132,8 @@ figlet -f slant '404' |lolcat
 echo
 
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" |lolcat
-echo "#                   KNI9H7 SH4D0W                  #" |lolcat
 echo "[~] Facebook : https://www.facebook.com/Mr.R013X.404 |lolcat
-echo "[~] Telegram : https://t.me/MR_R013X_404" |lolcat
+echo "[~] Telegram : https://t.me/MR_R013X_404" |locative 
 echo "[~] Page     : https://www.facebook.com/Bads.community.bd" |lolcat
 echo "[~] Group    : https://www.facebook.com/groups/team.bads" |lolcat
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" |lolcat
